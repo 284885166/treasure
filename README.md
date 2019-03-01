@@ -1,9 +1,18 @@
 # 前端
 - [前端学习资料](https://github.com/webproblem/learning-article)
 - [前端面试题和答案](https://github.com/qiu-deqing/FE-interview)
+- [vue源码分析](https://github.com/answershuto/learnVue)
 # 后端
 - [java学习+面试题](https://github.com/Snailclimb/JavaGuide)
 - [java 安卓面试题](https://github.com/hadyang/interview)
 - [程序员技能图谱](https://github.com/TeamStuQ/skill-map)
+# 大数据
+- [数据挖掘算法](https://github.com/linyiqun/DataMiningAlgorithm)
+- [机器学习](https://github.com/apachecn/AiLearning)
+- [机器学习教程](https://github.com/MorvanZhou/tutorials)
+# 爬虫
+- [爬虫集合](https://github.com/facert/awesome-spider)
+- [爬虫代理IP池](https://github.com/jhao104/proxy_pool)
 # 其他
 - [google hosts](https://github.com/googlehosts/hosts)
+- [经典编程书籍大全](https://github.com/jobbole/awesome-programming-books)
