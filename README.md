@@ -2,6 +2,7 @@
 - [前端学习资料](https://github.com/webproblem/learning-article)
 - [前端面试题和答案](https://github.com/qiu-deqing/FE-interview)
 - [vue源码分析](https://github.com/answershuto/learnVue)
+- [每个 JavaScript 工程师都应懂的33个概念](https://github.com/stephentian/33-js-concepts)
 # 移动端
 - [android学习资源](https://github.com/lizhangqu/CoreLink)
 - [AndroidDevTools](https://github.com/inferjay/AndroidDevTools)
