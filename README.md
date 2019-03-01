@@ -22,6 +22,7 @@
 # 爬虫
 - [爬虫集合](https://github.com/facert/awesome-spider)
 - [爬虫代理IP池](https://github.com/jhao104/proxy_pool)
+- [Python3网络爬虫实战](https://github.com/Jack-Cherish/python-spider)
 # 其他
 - [google hosts](https://github.com/googlehosts/hosts)
 - [经典编程书籍大全](https://github.com/jobbole/awesome-programming-books)
