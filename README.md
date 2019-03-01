@@ -20,6 +20,7 @@
 - [数据挖掘算法](https://github.com/linyiqun/DataMiningAlgorithm)
 - [机器学习](https://github.com/apachecn/AiLearning)
 - [机器学习教程](https://github.com/MorvanZhou/tutorials)
+- [大数据实验手册](https://chu888chu888.gitbooks.io/hadoopstudy/content/)
 # 爬虫
 - [爬虫集合](https://github.com/facert/awesome-spider)
 - [爬虫代理IP池](https://github.com/jhao104/proxy_pool)
