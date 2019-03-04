@@ -28,3 +28,5 @@
 # 其他
 - [google hosts](https://github.com/googlehosts/hosts)
 - [经典编程书籍大全](https://github.com/jobbole/awesome-programming-books)
+
+长期持续更新，欢迎大家提供优质资料
