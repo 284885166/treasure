@@ -8,6 +8,7 @@
 - [android学习资源](https://github.com/lizhangqu/CoreLink)
 - [AndroidDevTools](https://github.com/inferjay/AndroidDevTools)
 - [android开发总结](https://github.com/JohnTsaiAndroid/AndroidTips)
+- [RxJava2 只看这一篇文章就够了](https://juejin.im/post/5b17560e6fb9a01e2862246f)
 - [BAT大厂Android面试题汇集](https://github.com/AweiLoveAndroid/CommonDevKnowledge)
 - [中文 iOS/Mac 开发博客列表](https://github.com/tangqiaoboy/iOSBlogCN)
 - [iOS开发常用三方库、插件、知名博客等等](https://github.com/Tim9Liu9/TimLiu-iOS)
